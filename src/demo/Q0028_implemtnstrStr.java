@@ -1,6 +1,6 @@
 package demo;
 
-public class Q28_implemtnstrStr {
+public class Q0028_implemtnstrStr {
 
 	public static void main(String[] args) {
 		String str = "mississippi";

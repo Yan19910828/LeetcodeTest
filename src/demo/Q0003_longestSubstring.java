@@ -3,7 +3,7 @@ package demo;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Q3_longestSubstring {
+public class Q0003_longestSubstring {
 
 	public static void main(String[] args) {
 		System.out.println(lengthOfLongestSubstring("abba"));

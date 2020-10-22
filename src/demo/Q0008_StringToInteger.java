@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Q8_StringToInteger {
+public class Q0008_StringToInteger {
 
 	public static void main(String[] args) {
 		String t1 = "   -42";

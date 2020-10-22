@@ -1,6 +1,6 @@
 package demo;
 
-public class Q2_addTwoNumbers {
+public class Q0002_addTwoNumbers {
 	 public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 	        
 	        ListNode dummy=new ListNode(0);

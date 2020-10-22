@@ -2,7 +2,7 @@ package demo;
 
 import java.util.HashMap;
 
-public class Q9_PalindromeNumber {
+public class Q0009_PalindromeNumber {
 
 	public static void main(String[] args) {
 		int input=121;

@@ -1,6 +1,6 @@
 package demo;
 
-public class Q38_CountAndSay {
+public class Q0038_CountAndSay {
 
 	public static void main(String[] args) {
 		System.out.println(countAndSay(1));
